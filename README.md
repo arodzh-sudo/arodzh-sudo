@@ -1,6 +1,6 @@
 - :man_technologist: Hi, I’m Arnold Rodriguez-Hilario, Bioinformatician at the Puerto Rico Public Health Laboratory.
-- :dna: I’m interested in Molecular Biology, Microbiology, Bioinformatics, Metagenomics and Public Health.
-- :handshake: I’m looking to collaborate on Pathogen Genomics and Molecular Epidemiology.
+- :dna: I’m interested in Microbiology, Molecular Biology, Bioinformatics and Public Health.
+- :handshake: I’m looking to collaborate on Pathogen Genomics and Genomic Epidemiology.
 - 📫 You can reach me at arnold.rodriguez@salud.pr.gov
 
 <!---
