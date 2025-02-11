@@ -28,8 +28,3 @@ I’m eager to collaborate on:
 
 ---
 
-## 🌟 Fun Facts   
-- 🐱 A proud cat dad to a playful 3-year-old who keeps me company during late-night coding sessions.  
-- 🎞️ A dedicated film enthusiast with a special love for **cult movies**, always on the lookout for hidden gems and cinematic masterpieces.
-
----
