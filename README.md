@@ -23,14 +23,8 @@ $ cat ./focus.txt
 > metagenomics .............. decoding microbial communities
 
 $ ./pipeline --status
-> python · nextflow · containerization  →  reproducible · scalable
+> python nextflow singularity  >  reproducible, scalable
 ```
-
-<div align="center">
-
-`─◦─ A ─ T ─ C ─ G ─◦─ G ─ C ─ T ─ A ─◦─ T ─ A ─ G ─ C ─◦─`
-
-</div>
 
 <br/>
 
@@ -45,7 +39,7 @@ $ ./pipeline --status
 ![Git](https://img.shields.io/badge/Git-0b0b0d?style=flat-square&logo=git&logoColor=e8e8e8&labelColor=1c1c20)
 
 > ```
-> $ ./connect --open-to "pipelines · genomic epidemiology · metagenomics"
+> $ ./connect --open-to "pipelines genomic epidemiology metagenomics"
 > ```
 
 <div align="center">
